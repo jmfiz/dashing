@@ -9,9 +9,11 @@ RUN apt-get update -qq && \
     ruby1.9.1-dev \
     build-essential \
     nodejs \
+    libcurl4-openssl-dev \
     supervisor && \
     gem install bundler && \
-    gem install dashing
+    gem install dashing && \
+    gem install curb
 
 # create dashing dashboard
 RUN mkdir /dashboard && \
