@@ -1,0 +1,81 @@
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+172.17.42.1 - - [09/Apr/2015 13:06:42] "GET /events HTTP/1.1" 200 - 3.5255
+172.17.42.1 - - [09/Apr/2015 13:06:43] "GET /sample HTTP/1.1" 200 2276 0.1497
+172.17.42.1 - - [09/Apr/2015 13:06:51] "GET /views/text.html HTTP/1.1" 200 175 0.0722
+172.17.42.1 - - [09/Apr/2015 13:06:51] "GET /views/meter.html HTTP/1.1" 200 336 0.0214
+172.17.42.1 - - [09/Apr/2015 13:06:51] "GET /views/list.html HTTP/1.1" 200 493 0.0145
+172.17.42.1 - - [09/Apr/2015 13:06:51] "GET /views/number.html HTTP/1.1" 200 343 0.0100
+172.17.42.1 - - [09/Apr/2015 13:06:51] "GET /views/graph.html HTTP/1.1" 200 167 0.0038
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+172.17.42.1 - - [09/Apr/2015 14:24:31] "GET /events HTTP/1.1" 200 - 25.0916
+172.17.42.1 - - [09/Apr/2015 14:24:31] "GET /sample HTTP/1.1" 200 2276 0.0089
+172.17.42.1 - - [09/Apr/2015 14:24:32] "GET /views/text.html HTTP/1.1" 200 175 0.0021
+172.17.42.1 - - [09/Apr/2015 14:24:32] "GET /views/meter.html HTTP/1.1" 200 336 0.0011
+172.17.42.1 - - [09/Apr/2015 14:24:32] "GET /views/list.html HTTP/1.1" 200 493 0.0012
+172.17.42.1 - - [09/Apr/2015 14:24:32] "GET /views/number.html HTTP/1.1" 200 343 0.0010
+172.17.42.1 - - [09/Apr/2015 14:24:32] "GET /views/graph.html HTTP/1.1" 200 167 0.0011
+172.17.42.1 - - [09/Apr/2015 14:24:40] "GET /events HTTP/1.1" 200 - 7.9974
+172.17.42.1 - - [09/Apr/2015 14:24:40] "GET / HTTP/1.1" 302 - 0.0121
+172.17.42.1 - - [09/Apr/2015 14:24:40] "GET /sample HTTP/1.1" 200 2276 0.0224
+172.17.42.1 - - [09/Apr/2015 14:24:41] "GET /views/text.html HTTP/1.1" 200 175 0.0020
+172.17.42.1 - - [09/Apr/2015 14:24:41] "GET /views/meter.html HTTP/1.1" 200 336 0.0012
+172.17.42.1 - - [09/Apr/2015 14:24:41] "GET /views/list.html HTTP/1.1" 200 493 0.0012
+172.17.42.1 - - [09/Apr/2015 14:24:41] "GET /views/number.html HTTP/1.1" 200 343 0.0012
+172.17.42.1 - - [09/Apr/2015 14:24:41] "GET /views/graph.html HTTP/1.1" 200 167 0.0013
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+172.17.42.1 - - [09/Apr/2015 14:36:38] "GET /events HTTP/1.1" 200 - 77.0522
+172.17.42.1 - - [09/Apr/2015 14:36:38] "GET /sample HTTP/1.1" 200 2276 0.0161
+172.17.42.1 - - [09/Apr/2015 14:36:43] "GET /views/text.html HTTP/1.1" 200 175 0.0101
+172.17.42.1 - - [09/Apr/2015 14:36:43] "GET /views/meter.html HTTP/1.1" 200 336 0.0012
+172.17.42.1 - - [09/Apr/2015 14:36:43] "GET /views/list.html HTTP/1.1" 200 493 0.0013
+172.17.42.1 - - [09/Apr/2015 14:36:43] "GET /views/number.html HTTP/1.1" 200 343 0.0011
+172.17.42.1 - - [09/Apr/2015 14:36:43] "GET /views/graph.html HTTP/1.1" 200 167 0.0015
+172.17.42.1 - - [09/Apr/2015 14:38:16] "GET /events HTTP/1.1" 200 - 94.1438
+172.17.42.1 - - [09/Apr/2015 14:38:16] "GET /sample HTTP/1.1" 200 2282 0.0090
+172.17.42.1 - - [09/Apr/2015 14:38:17] "GET /views/text.html HTTP/1.1" 200 175 0.0060
+172.17.42.1 - - [09/Apr/2015 14:38:17] "GET /views/meter.html HTTP/1.1" 200 336 0.0012
+172.17.42.1 - - [09/Apr/2015 14:38:17] "GET /views/list.html HTTP/1.1" 200 493 0.0011
+172.17.42.1 - - [09/Apr/2015 14:38:17] "GET /views/number.html HTTP/1.1" 200 343 0.0008
+172.17.42.1 - - [09/Apr/2015 14:38:17] "GET /views/graph.html HTTP/1.1" 200 167 0.0012
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+Writing PID to tmp/pids/thin.pid
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3030, CTRL+C to stop
+172.17.42.1 - - [09/Apr/2015 16:14:12] "GET /sample HTTP/1.1" 200 2282 0.3247
+[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.[0m
+172.17.42.1 - - [09/Apr/2015 16:14:15] "GET /views/text.html HTTP/1.1" 200 175 0.0815
+172.17.42.1 - - [09/Apr/2015 16:14:15] "GET /views/meter.html HTTP/1.1" 200 336 0.0208
+172.17.42.1 - - [09/Apr/2015 16:14:15] "GET /views/list.html HTTP/1.1" 200 493 0.0115
+172.17.42.1 - - [09/Apr/2015 16:14:15] "GET /views/number.html HTTP/1.1" 200 343 0.0400
+172.17.42.1 - - [09/Apr/2015 16:14:15] "GET /views/graph.html HTTP/1.1" 200 167 0.0090
+172.17.42.1 - - [09/Apr/2015 16:20:39] "GET /events HTTP/1.1" 200 - 384.3664
