@@ -14,7 +14,9 @@ RUN apt-get update -qq && \
     gem install bundler && \
     gem install dashing && \
     gem install curb && \
-    gem install xml-simple
+    gem install xml-simple && \
+    gem net-http-persistent && \
+    gem install rdoc
 
 # create dashing dashboard
 RUN mkdir /dashboard && \
