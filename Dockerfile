@@ -15,13 +15,13 @@ RUN apt-get update -qq && \
     gem install dashing && \
     gem install curb && \
     gem install xml-simple && \
-    gem net-http-persistent && \
+    gem install net-http-persistent && \
     gem install rdoc
 
 # create dashing dashboard
 RUN mkdir /dashboard && \
     dashing new dashboard && \
-    cd /dashboard && bundle 
+    cd /dashboard && bundle install 
 
 # dashboard setup
 COPY dashboard /etc/init.d/dashboard
