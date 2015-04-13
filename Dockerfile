@@ -13,7 +13,8 @@ RUN apt-get update -qq && \
     supervisor && \
     gem install bundler && \
     gem install dashing && \
-    gem install curb
+    gem install curb && \
+    gem install xml-simple
 
 # create dashing dashboard
 RUN mkdir /dashboard && \
